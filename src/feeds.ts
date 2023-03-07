@@ -1,6 +1,6 @@
 export const feeds = [
-  // Daring Fireball
-  'https://daringfireball.net/feeds/main',
+  // WPERP
+  'https://wperp.com/feed/',
 
   // JakeArchibald.com
   'https://jakearchibald.com/posts.rss',
